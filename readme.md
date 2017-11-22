@@ -28,32 +28,26 @@ If you're new to GitHub, have a look at the [resources provided by IPA](https://
 
 ## How to use the platform
 
-If you haven't worked with GitHub before, some of the steps below will be gibberish. Have a look at [this Guide](https://guides.github.com/activities/forking/), and in 4 minutes from now, it will all make sense. 
 
 
 ### Use a program from the platform
 
 1. Navigate to the main page of the program you want to use (e.g. https://github.com/DriveLab/stata-latex-integration).
 
-2. Fork the repo to your GitHub account and then clone it to your local machine. ([Guide](https://guides.github.com/activities/forking/))
+2. **Fork** the repo to your own GitHub account and then **clone** it to your local machine ([Guide](https://guides.github.com/activities/forking/)). Cloning produces a copy of the program repo on your local machine. The copy will look like any other folder, and you can specify where you want to save it. One option is the analysis/code folder of your project; another, a separate directory where you keep all cloned programs--choose the workflow that works best for you. 
 
-
-
-
-2. Download that copy from GitHub.com to GitHub Desktop to have a local copy (clone the repo).
-
-3. Each program (together with documentation and auxiliary files) is saved in a separate subfolder of the code folder. Copy the program you need into the analysis/code folder of your project and adapt it for your purposes.
+3. Copy/paste the code into your do-file and adapt it as needed.
 
 
 ### Propose changes to a program
 
-If you find bugs in the code or make improvements that could benefit the community:
+If you find bugs in the code or make improvements that could benefit the community, please share your work with others ([Guide](https://guides.github.com/activities/forking/)).
 
-1. Change the in your local copy.
+1. Improve your local copy of the program repo. 
 
-2. Push the change to your fork of the Coders' Corner on your GitHub.com account (that you produced in step 1 above).
+2. Push the changes to the fork of the repo on you GitHub account.
 
-3. Propose a change to the original code (make a pull request).
+3. Make a pull request to propose that the improvement be added to the DriveLab repo.
 
 
 ### Suggest that your program gets added to the platform
@@ -81,8 +75,8 @@ For an example, see [here](https://github.com/fabiangunzinger/drivelab-code/tree
 
 ### Request that a new program gets added to the platform.
 
-If you think there is a program that would be useful to have on the platform but don't have time to write it yourself just now, raise an [issue](https://github.com/fabiangunzinger/drivelab-code/issues) and label it as an *enhancement*.
+If you think there is a program that would be useful to have on the platform but don't have time to write it yourself just now, raise an [issue](https://github.com/DriveLab/coders-corner-help/issues).
 
 ## Questions
 
-If you have any questions, raise an [issue](https://github.com/fabiangunzinger/drivelab-code/issues) and label it as a *question*.
+If you have any questions, raise an [issue](https://github.com/DriveLab/coders-corner-help/issues).
