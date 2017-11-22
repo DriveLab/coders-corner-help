@@ -28,8 +28,6 @@ If you're new to GitHub, have a look at the [resources provided by IPA](https://
 
 ## How to use the platform
 
-
-
 ### Use a program from the platform
 
 1. Navigate to the main page of the program you want to use (e.g. https://github.com/DriveLab/stata-latex-integration).
@@ -47,7 +45,7 @@ If you find bugs in the code or make improvements that could benefit the communi
 
 2. Push the changes to the fork of the repo on you GitHub account.
 
-3. Make a pull request to propose that the improvement be added to the DriveLab repo.
+3. Make a pull request to propose that the improvement be added to the DriveLab repo. In the message of the request, summarise what you did and why it matters.
 
 
 ### Suggest that your program gets added to the platform
