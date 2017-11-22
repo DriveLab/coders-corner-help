@@ -33,7 +33,12 @@ If you haven't worked with GitHub before, some of the steps below will be gibber
 
 ### Use a program from the platform
 
-1. Copy the Coders' Corner repo to your own GitHub.com account (fork the repo).
+1. Navigate to the main page of the program you want to use (e.g. https://github.com/DriveLab/stata-latex-integration).
+
+2. Fork the repo to your GitHub account and then clone it to your local machine. ([Guide](https://guides.github.com/activities/forking/))
+
+
+
 
 2. Download that copy from GitHub.com to GitHub Desktop to have a local copy (clone the repo).
 
