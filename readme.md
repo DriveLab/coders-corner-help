@@ -59,9 +59,9 @@ If you use a program that is not on the platform but could be useful for others,
 
 2. Go to (https://github.com/DriveLab/coders-corner-help), navigate to **Issues**, and create a new one explaining what your program does and why it should be added.
 
-3. If your request has been approved, you can transfer the repo from your account to DriveLab's: navigate to the main page of your program repo on GitHub, click **Settings**, then **Transfer**. ([Guide](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/)
+3. If your request has been approved, you can transfer the repo from your account to DriveLab's: navigate to the main page of your program repo on GitHub, click **Settings**, then **Transfer**. ([Guide](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/))
 
-S few style guidelines to follow:
+A few style guidelines to follow:
 
 - Use lower-case for all letters, and hyphens instead of spaces in all directory- and file names (consistent use of lower- and upper case makes folders and documents easier to skim, spaces make it cumbersome to use GitHub from the command-line). 
 
