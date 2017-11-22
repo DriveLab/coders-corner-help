@@ -53,6 +53,16 @@ If you find bugs in the code or make improvements that could benefit the communi
 
 ### Suggest that your program gets added to the platform
 
+1. Create a separate folder that contains all relevant files, then push it to your GitHub account. ([Guide](https://guides.github.com/introduction/getting-your-project-on-github/))
+
+2. Create an issue. 
+
+2. On Github, navigate to the main page of the repo, click **Settings**, then **Transfer**. ([Guide](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/)
+
+
+
+
+
 If you use a program that is not on the platform yet but that could be useful for others, add a new folder into the code directory of your fork of the Coders' Corner and propose that the program be added to the platform (make a pull request). A few rules to follow to ensure consistency across all programs:
 
 - Use lower-case for all letters, and hyphens instead of spaces in all directory- and file names (consistent use of lower- and upper case makes folders and documents easier to skim, spaces make it cumbersome to use GitHub from the command-line). 
