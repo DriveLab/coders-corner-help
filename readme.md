@@ -1,6 +1,6 @@
 # Drive Lab Coders' Corner
 
-Hi! and welcome to the Drive Lab Coders' Corner. This platform (GitHub calls it a *Repo*) contains up-to-date programs to implement techniques that are used across different projects in the lab (calculating indices, trimming or winsorizing, etc.). 
+Hi! and welcome to the Drive Lab Coders' Corner, the platform that hosts a collection of up-to-date programs to implement techniques that are used across different projects in the lab (calculating indices, trimming or winsorizing, etc.). The files for each program are stored in a separate folder (GitHub calls it a *Repo*), and all repos are listed [here](https://github.com/DriveLab?tab=repositories).
 
 Together with the [Drive Lab Coders' Best Practice Guide](https://docs.google.com/document/d/1ZMEm-IMgLdDFYQQ4PpuxUdXs_IAXKM5oDhl6rfe8848/edit?usp=sharing), which provides guidance on how to implement techniques and how to deal with problems you might run into, the platform serves four main purposes:
 
