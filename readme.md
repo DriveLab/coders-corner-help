@@ -75,7 +75,7 @@ A few style guidelines for new repos to follow:
 
 - Add a readme.md file that explains what your directory contains, what all the files do, and how to deal with known issues. Provide a link to the relevant section of the [Best Practice Guide](https://docs.google.com/document/d/1ZMEm-IMgLdDFYQQ4PpuxUdXs_IAXKM5oDhl6rfe8848/edit?usp=sharing) if you give more detail there (it would be nice if you did!). 
 
-- Use lower-case for all letters, and hyphens instead of spaces in all directory- and file names (consistent use of lower- and upper case makes folders and documents easier to skim, spaces make it cumbersome to use GitHub from the command-line). 
+- Use lower-case for all letters, and hyphens instead of spaces in all directory- and file names (consistent use of lower- and upper case makes folders and documents easier to skim, spaces make it cumbersome to use GitHub from the command line). 
 
 - Choose a meaningful name for the directory (mean-comparison) and for all files (mean-comparison.do, example-data.dta, readme.md).
 
