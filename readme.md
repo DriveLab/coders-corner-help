@@ -34,7 +34,7 @@ If you have no experience with Git and GitHub, invest about half an hour to work
 
 4. [Markdown](https://guides.github.com/features/mastering-markdown/).
 
-After this, you'll be ready to use the platform. If you want to learn more, IPA provides a useful collection of [resources](https://github.com/PovertyAction/github-training/blob/master/resources/External%20resources.md). 
+After this, you'll be ready to use the platform. If you want to learn more (both on GitHub and general programming), have a look at these external resources. 
 
 
 
