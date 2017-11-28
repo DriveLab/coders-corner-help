@@ -69,7 +69,7 @@ If you use a program that is not on the platform but could be useful for others,
 
 2. Go to (https://github.com/DriveLab/coders-corner-help), navigate to **Issues**, and create a new issue where you provide the link to your program repo and explain what the program does and why it should be added.
 
-3. We'll have a look at your repo and might get in touch for questions and suggestions. Once your request has been approved, you can transfer the repo from your account to DriveLab's: navigate to the main page of your program repo on GitHub, click **Settings**, then scroll all the way down into the Danger Zone and click **Transfer**. ([Guide](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/))
+3. We'll have a look at your repo and might get in touch for questions and suggestions. Once your request has been approved, you can transfer the repo from your account to DriveLab's. To do this, navigate to the main page of your program repo on GitHub, click **Settings**, then scroll all the way down into the Danger Zone and click **Transfer**. ([Guide](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/))
 
 A few style guidelines for new repos to follow:
 
