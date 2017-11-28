@@ -34,7 +34,7 @@ If you have no experience with Git and GitHub, invest about half an hour to work
 
 4. [Markdown](https://guides.github.com/features/mastering-markdown/).
 
-After this, you'll be ready to use the platform. If you want to learn more (both on GitHub and general programming), have a look at these external resources. 
+After this, you'll be ready to use the platform. If you want to learn more (both on GitHub and general programming), have a look at [these external resources](https://github.com/DriveLab/coders-corner-help/blob/master/coding-resources.md). 
 
 
 
