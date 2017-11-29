@@ -37,7 +37,7 @@ If you have no experience with Git and GitHub, invest about half an hour to work
 After this, you'll be ready to use the platform. If you want to learn more (both on GitHub and general programming), have a look at these external resources. 
 
 
-## Basic terminology and how to think of it all
+## Basic terminology and overall workflow
 
 *upstream*: Is the name of the repo you forked that lives on DriveLab's GitHub account.
 
