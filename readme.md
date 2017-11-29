@@ -45,9 +45,9 @@ After this, you'll be ready to use the platform. If you want to learn more (both
 
 Local copy: Is the local copy of *origin* that you cloned to your machine. 
 
-*master*: is the [branch](https://guides.github.com/introduction/flow/) where the "live version" of the repo lives. If you have forked a repo and work with it locally on your machine, then there is an *upstream master* (the live version of the code in the upstream directory), an *origin master* (the live version of the code on your GitHub account), and a (local) *master* (the live version of the code on your machine).
+*master*: is the [branch](https://guides.github.com/introduction/flow/) where the "live version" of the code lives. If you have forked a repo and work with it locally on your machine, then there is an *upstream master* (the live version of the code in the upstream directory), an *origin master* (the live version of the code on your GitHub account), and a (local) *master* (the live version of the code on your machine).
 
-How it all fits together: think of *upstream*, *origin*, and your local clone as a vertical hierarchy, and of branches (such as *master* and all others you create) as a horizontal workflow that happens on any of the three hierarchical levels. When you fork a repo, you take the momentary state of upstream and make it the starting point for you own workflow. When you start a pull request and your changes get merged into upstream, then the upstream workflow and your own workflow become one.
+How it all fits together: think of *upstream*, *origin*, and your local clone as a vertical hierarchy, and of branches (such as *master* and all others you create) as a horizontal workflow that happens on any of the three hierarchical levels. When you fork a repo, you take the code on the upstream repo at that point in time and make it the starting point for you own workflow. When you start a pull request and your changes get merged into upstream, the upstream workflow and your own workflow become one.
 
 
 
